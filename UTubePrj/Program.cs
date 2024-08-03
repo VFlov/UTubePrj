@@ -49,7 +49,7 @@ namespace UTubePrj
             var audioFormat = youTubeVideos.Where(i => i.AudioFormat == AudioFormat.Aac);
             var bitrate = audioFormat.First(i => i.AudioBitrate == audioFormat.Max(j => j.AudioBitrate));
             //File.WriteAllBytes(bitrate.FullName + "_audio", bitrate.GetBytes());
-            DownloadFile(bitrate.Uri, bitrate.FullName + "_audio", 5);
+            await Task.Run(() => DownloadFile(bitrate.Uri, bitrate.FullName + "_audio", 5));
             return bitrate.FullName + "_audio";
         }
         static async Task<string> VideoDownload(IEnumerable<YouTubeVideo> youTubeVideos)
@@ -57,7 +57,7 @@ namespace UTubePrj
             var maxResolution = youTubeVideos.First(i => i.Resolution == youTubeVideos.Max(j => j.Resolution));
             //File.WriteAllBytesAsync(maxResolution.FullName, maxResolution.GetBytes());
             Console.WriteLine("gg");
-            DownloadFile(maxResolution.Uri, maxResolution.FullName + "_video", 0);
+            await Task.Run(() => DownloadFile(maxResolution.Uri, maxResolution.FullName + "_video", 0));
             return maxResolution.FullName + "_video";
         }
         public static void Merger(string videoPath, string audioPath, string outputPath)
