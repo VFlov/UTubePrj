@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTubePrj", "UTubePrj\UTubePrj.csproj", "{C3FB4155-AAF0-4907-B3FB-B4FCFB3BB68E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3FB4155-AAF0-4907-B3FB-B4FCFB3BB68E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3FB4155-AAF0-4907-B3FB-B4FCFB3BB68E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3FB4155-AAF0-4907-B3FB-B4FCFB3BB68E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3FB4155-AAF0-4907-B3FB-B4FCFB3BB68E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01040070-3462-4FF3-8749-1F34802BC569}
+	EndGlobalSection
+EndGlobal
