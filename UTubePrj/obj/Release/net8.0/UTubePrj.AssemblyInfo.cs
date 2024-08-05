@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UTubePrj")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+120451ac5434f6fc2b6c256e51df16818fd9eb1f")]
 [assembly: System.Reflection.AssemblyProductAttribute("UTubePrj")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UTubePrj")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

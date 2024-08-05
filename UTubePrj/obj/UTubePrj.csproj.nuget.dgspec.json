@@ -46,6 +46,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Cake.Powershell": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
             "FFmpeg.Net": {
               "target": "Package",
               "version": "[1.1.0, )"

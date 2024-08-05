@@ -5,6 +5,20 @@
     {
       "AbsoluteMoniker": "D:0:0:{C3FB4155-AAF0-4907-B3FB-B4FCFB3BB68E}|UTubePrj\\UTubePrj.csproj|c:\\users\\vsp\\documents\\repos\\utubeprj\\utubeprj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3FB4155-AAF0-4907-B3FB-B4FCFB3BB68E}|UTubePrj\\UTubePrj.csproj|solutionrelative:utubeprj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FB4155-AAF0-4907-B3FB-B4FCFB3BB68E}|UTubePrj\\UTubePrj.csproj|c:\\users\\vsp\\documents\\repos\\utubeprj\\utubeprj\\additions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FB4155-AAF0-4907-B3FB-B4FCFB3BB68E}|UTubePrj\\UTubePrj.csproj|solutionrelative:utubeprj\\additions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VSP\\AppData\\Local\\Temp\\.vsdbgsrc\\f4b8af38bc357abd8844266c5753b686263ebe12823338684f6ed4017a06664e\\Interop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VSP\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FB4155-AAF0-4907-B3FB-B4FCFB3BB68E}|UTubePrj\\UTubePrj.csproj|c:\\users\\vsp\\documents\\repos\\utubeprj\\utubeprj\\utubeprj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3FB4155-AAF0-4907-B3FB-B4FCFB3BB68E}|UTubePrj\\UTubePrj.csproj|solutionrelative:utubeprj\\utubeprj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +28,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExecutionContext.cs",
+              "DocumentMoniker": "C:\\Users\\VSP\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs",
+              "ToolTip": "C:\\Users\\VSP\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAIBJwL8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:44:31.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Interop.cs",
+              "DocumentMoniker": "C:\\Users\\VSP\\AppData\\Local\\Temp\\.vsdbgsrc\\f4b8af38bc357abd8844266c5753b686263ebe12823338684f6ed4017a06664e\\Interop.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f4b8af38bc357abd8844266c5753b686263ebe12823338684f6ed4017a06664e\\Interop.cs",
+              "ToolTip": "C:\\Users\\VSP\\AppData\\Local\\Temp\\.vsdbgsrc\\f4b8af38bc357abd8844266c5753b686263ebe12823338684f6ed4017a06664e\\Interop.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f4b8af38bc357abd8844266c5753b686263ebe12823338684f6ed4017a06664e\\Interop.cs",
+              "ViewState": "AQIAAIQEAAAAAAAAAIBJwPIEAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:43:56.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UTubePrj.csproj",
+              "DocumentMoniker": "C:\\Users\\VSP\\Documents\\Repos\\UTubePrj\\UTubePrj\\UTubePrj.csproj",
+              "RelativeDocumentMoniker": "UTubePrj\\UTubePrj.csproj",
+              "ToolTip": "C:\\Users\\VSP\\Documents\\Repos\\UTubePrj\\UTubePrj\\UTubePrj.csproj",
+              "RelativeToolTip": "UTubePrj\\UTubePrj.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-04T14:40:16.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Additions.cs",
+              "DocumentMoniker": "C:\\Users\\VSP\\Documents\\Repos\\UTubePrj\\UTubePrj\\Additions.cs",
+              "RelativeDocumentMoniker": "UTubePrj\\Additions.cs",
+              "ToolTip": "C:\\Users\\VSP\\Documents\\Repos\\UTubePrj\\UTubePrj\\Additions.cs",
+              "RelativeToolTip": "UTubePrj\\Additions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:02:11.722Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +91,7 @@
               "RelativeDocumentMoniker": "UTubePrj\\Program.cs",
               "ToolTip": "C:\\Users\\VSP\\Documents\\Repos\\UTubePrj\\UTubePrj\\Program.cs",
               "RelativeToolTip": "UTubePrj\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAgAAAA",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAgwF8AAABzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-02T15:35:59.014Z",
               "EditorCaption": ""
